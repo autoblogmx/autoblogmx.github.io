@@ -1,2 +1,2 @@
 # autoblogmx.github.io
-AutoBlog.mx website
+AutoBlog.com.mx website
